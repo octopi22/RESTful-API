@@ -1,7 +1,7 @@
 ## What To Make
 
-#GET /users
-#GET /users/:id
-#POST /users
-#DELETE /users/:id
-#PUT /users/:id
+- [x] GET /users
+- [x] GET /users/:id
+- [x] POST /users
+- [x] DELETE /users/:id
+- [x] PUT /users/:id
